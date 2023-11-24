@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/elias1435" target="blank"><img src="https://img.shields.io/twitter/follow/elias1435?logo=twitter&style=for-the-badge" alt="elias1435" /></a> </p>
 
-- 🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89) [Fiverr.com](https://www.fiverr.com/elias1435)
+🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89) [Fiverr.com](https://www.fiverr.com/elias1435)
 
-- 👯 I’m looking to collaborate on **wordpress, Laravel, vue**
+👯 I’m looking to collaborate on **wordpress, Laravel, vue**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0192b2c587ab499b89](https://www.upwork.com/freelancers/~0192b2c587ab499b89)
+👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0192b2c587ab499b89](https://www.upwork.com/freelancers/~0192b2c587ab499b89)
 
-- 📝 I regularly write articles on [https://www.howtoonlinetips.com/](https://www.howtoonlinetips.com/)
+📝 I regularly write articles on [https://www.howtoonlinetips.com/](https://www.howtoonlinetips.com/)
 
-- 💬 Ask me about **vue, wordpress, laravel**
+💬 Ask me about **vue, wordpress, laravel**
 
-- 📫 How to reach me **elias1435@gmail.com**
+📫 How to reach me **elias1435@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-eliass-hossain-6a761570/](https://www.linkedin.com/in/md-eliass-hossain-6a761570/)
+📄 Know about my experiences [https://www.linkedin.com/in/md-eliass-hossain-6a761570/](https://www.linkedin.com/in/md-eliass-hossain-6a761570/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
