@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/elias1435" target="blank"><img src="https://img.shields.io/twitter/follow/elias1435?logo=twitter&style=for-the-badge" alt="elias1435" /></a> </p>
 
-- 🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89)
+- 🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89) [Fiverr.com](https://www.fiverr.com/elias1435)
 
-- 🌱 I’m currently working **wordpress, Laravel, vue**
-
-- 👯 I’m looking to collaborate on [Fiverr.com](https://www.fiverr.com/elias1435)
+- 👯 I’m looking to collaborate on **wordpress, Laravel, vue**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0192b2c587ab499b89](https://www.upwork.com/freelancers/~0192b2c587ab499b89)
 
